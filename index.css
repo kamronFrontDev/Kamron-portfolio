@@ -6,9 +6,8 @@
 }
 body {
     background: rgb(89,115,60);
-background: linear-gradient(0deg, rgba(89,115,60,1) 0%, rgba(97,198,72,1) 100%);     
+    background: linear-gradient(0deg, rgba(89,115,60,1) 0%, rgba(97,198,72,1) 100%);     
     color: #fff;
-    overflow: hidden;
 }
 h1 {
     text-align: center;

@@ -19,7 +19,6 @@ main {
     justify-content: space-around;
     flex-wrap: wrap-reverse;
     gap: 50px;
-    padding: 60px 150px;
     align-items: flex-end;
 }
 .img {

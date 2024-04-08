@@ -22,7 +22,7 @@ main {
     align-items: flex-end;
 }
 .img {
-    background: url(https://i.pinimg.com/originals/ea/d0/46/ead046d5fba799af0e927ff5630ae03e.jpg) no-repeat center center/cover;
+    background: url(https://i.pinimg.com/originals/ea/d0/46/ead046d5fba799af0e927ff5630ae03e.jpg) center center/cover;
     width: 400px;
     height: 400px;
     border-radius: 50%;
